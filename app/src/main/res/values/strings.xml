@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <!-- Texto en español para el botón de lanzamiento -->
+    <string name="roll">Lanzar dado</string>
+</resources>
